@@ -24,3 +24,8 @@ CSS animations and transitions provide visual feedback for player moves, winning
 The game board and symbols are styled with modern CSS to enhance visual appeal.
 # User Experience
 The Tic-Tac-Toe Project delivers an enjoyable and engaging experience for users. The intuitive interface allows players to start playing immediately without any learning curve. The use of JavaScript ensures smooth and responsive interactions, making each game session exciting and competitive. Whether playing against a friend or simply passing time, users will find the Tic-Tac-Toe Project a delightful addition to their web browsing experience.
+
+Developer
+---------
+
+The Password Generator was developed by [Anant Vijay](https://github.com/AnantVijay16).
